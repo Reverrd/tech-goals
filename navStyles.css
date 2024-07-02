@@ -26,15 +26,15 @@ nav{
     color: inherit;
 }
 .navBtn :first-child{
-    margin-right: 40px;
+    margin-right: 20px;
     cursor: pointer;
 }
 .navBtn :nth-child(2){
-    margin-right: 40px;
+    
     cursor: pointer;
 }
 .navBtn :last-child{
-    margin-right: 40px;
+    
     cursor: pointer;
 }
 .navBtn :first-child:hover,.navBtn :nth-child(2):hover{
